@@ -1,0 +1,28 @@
+{
+  "name": "module-11-challenge",
+  "version": "1.0.0",
+  "description": "Module-11-Challenge",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rddavis1389/module-11-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rddavis1389/module-11-challenge/issues"
+  },
+  "homepage": "https://github.com/Rddavis1389/module-11-challenge#readme"
+}
